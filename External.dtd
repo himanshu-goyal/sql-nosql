@@ -1,0 +1,10 @@
+<!-- External DTD-->
+<!ELEMENT EMPLOYEES (Employee+)>
+<!ELEMENT Employee (DeptName,JobTitle, Salary, JoiningYear)>
+<!ATTLIST Employee EmployeeId CDATA #REQUIRED FirstName CDATA #REQUIRED LastName CDATA
+#REQUIRED>
+<!ELEMENT DeptName (#PCDATA)>
+<!ELEMENT JobTitle (#PCDATA)>
+<!ELEMENT Grade (#PCDATA)>
+<!ELEMENT Salary (#PCDATA)>
+<!ELEMENT JoiningYear (#PCDATA)>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EMPLOYEES>
+    <Employee EmployeeId="1001" FirstName="Chris" LastName = "Church">
+        <DeptName>IT</DeptName>
+        <JobTitle>Developer</JobTitle>
+        <Salary>85000</Salary>
+        <JoiningYear>2011</JoiningYear>
+    </Employee>
+    <Employee EmployeeId="1002" FirstName="Augi" LastName = "Vitha">
+        <DeptName>IT</DeptName>
+        <JobTitle>Tester</JobTitle>
+        <Salary>70000</Salary>
+        <JoiningYear>2008</JoiningYear>
+    </Employee>
+    <Employee EmployeeId="1003" FirstName="Justin" LastName = "Fletcher">
+        <DeptName>IT</DeptName>
+        <JobTitle>Manager</JobTitle>
+        <Salary>109000</Salary>
+        <JoiningYear>2001</JoiningYear>
+    </Employee>
+    <Employee EmployeeId="1004" FirstName="Ankit" LastName = "Saxena">
+        <DeptName>HR</DeptName>
+        <JobTitle>Associate</JobTitle>
+        <Salary>84000</Salary>
+        <JoiningYear>2014</JoiningYear>
+    </Employee>
+    <Employee EmployeeId="1004" FirstName="Rahul" LastName = "Singh">
+        <DeptName>HR</DeptName>
+        <JobTitle>Lead</JobTitle>
+        <Salary>95000</Salary>
+        <JoiningYear>2004</JoiningYear>
+    </Employee>
+    <Employee EmployeeId="1005" FirstName="Vinay" LastName = "Sharma">
+        <DeptName>Sales</DeptName>
+        <JobTitle>SALESMAN</JobTitle>
+        <Salary>6000</Salary>
+        <JoiningYear>2009</JoiningYear>
+    </Employee>
+    <Employee EmployeeId="1006" FirstName="Mike" LastName = "Clark">
+        <DeptName>Sales</DeptName>
+        <JobTitle>Manager</JobTitle>
+        <Salary>105000</Salary>
+        <JoiningYear>1995</JoiningYear>
+    </Employee>
+    <Employee EmployeeId="1007" FirstName="Pradeep" LastName = "Gade">
+        <DeptName>Operations</DeptName>
+        <JobTitle>Associate</JobTitle>
+        <Salary>65000</Salary>
+        <JoiningYear>2013</JoiningYear>
+    </Employee>
+    <Employee EmployeeId="1008" FirstName="Apoorva" LastName = "Kamath">
+        <DeptName>Operations</DeptName>
+        <JobTitle>Lead</JobTitle>
+        <Salary>86000</Salary>
+        <JoiningYear>2006</JoiningYear>
+    </Employee>
+    <Employee EmployeeId="1009" FirstName="Pranay" LastName = "Kumar">
+        <DeptName>Research</DeptName>
+        <JobTitle>ANALYST</JobTitle>
+        <Salary>82000</Salary>
+        <JoiningYear>2008</JoiningYear>
+    </Employee>
+    <Employee EmployeeId="1010" FirstName="Josh" LastName = "Kayser">
+        <DeptName>Research</DeptName>
+        <JobTitle>Lead</JobTitle>
+        <Salary>108000</Salary>
+        <JoiningYear>1989</JoiningYear>
+    </Employee>
+</EMPLOYEES>
